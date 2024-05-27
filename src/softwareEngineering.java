@@ -10,6 +10,8 @@ public class softwareEngineering {
         this.favouriteCodingProject=favouriteCodingProject;
 
     }
+    Sring name;
+    int age;
     //comment
     //hi batch 86
 
